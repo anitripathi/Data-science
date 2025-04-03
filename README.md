@@ -154,12 +154,6 @@ This repository serves as a structured documentation of my **Data Science journe
 
 ## 📚 **Resources & References**
 
-🔹 **Books**:
-
-- "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" – Aurélien Géron
-- "The Elements of Statistical Learning" – Hastie, Tibshirani
-
-
 
 🔹 **Datasets**:
 
@@ -178,9 +172,9 @@ This repository serves as a structured documentation of my **Data Science journe
 
 ## 🔗 **Connect with Me**
 
-📧 Email: [[your.email@example.com](mailto\:your.email@example.com)]\
-🔗 LinkedIn: [your-profile-link]\
-🚀 GitHub: [your-github-link]
+📧 Email: [[tripathi.ani321@gail.com](mailto\:tripathi.ani321@gmail.com)]\
+🔗 LinkedIn: [https://www.linkedin.com/in/anivesh-tripathi-785534290/]\
+🚀 GitHub: [https://github.com/anitripathi]
 
 ---
 
