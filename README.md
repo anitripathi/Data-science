@@ -26,7 +26,7 @@ This repository serves as a structured documentation of my **Data Science journe
 
 📂 **Files**:
 
-- `DS01.ipynb`, `DS02.ipynb`, `DS03.ipynb`, `DS04.ipynb`, `DS05.ipynb` – Introduction to Data Science concepts.
+- `DS01.ipynb`, `DS02.ipynb`, `DS03.ipynb`, `DS04.ipynb`, `DS05.ipynb` – Introduction to Data Science concept.
 
 ---
 
